@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Heart_diseases_analysis   |  To predict the presence of heart disease in the patient. | https://github.com/penscola/Heart_diseases_analysis.git  |
+| 2 |  alx-low_level_programming |  C Programming Language | https://github.com/penscola/alx-low_level_programming.git  |
+| 3 |  alx-system_engineering-devops |  Working on Shell Commands | https://github.com/penscola/alx-system_engineering-devops.git  |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
